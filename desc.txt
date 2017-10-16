@@ -1,0 +1,12 @@
+purchaser
+ name:
+
+item
+  description:
+  price:
+
+purchase count:
+
+merchant
+ name:
+ address:
